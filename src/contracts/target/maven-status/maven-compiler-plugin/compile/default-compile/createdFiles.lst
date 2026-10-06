@@ -1,0 +1,17 @@
+com\h8\ems\contracts\events\AuditEvent.class
+com\h8\ems\contracts\dto\DispatchResponse.class
+com\h8\ems\contracts\ContractsModule.class
+com\h8\ems\contracts\events\UnitStatusEvent.class
+com\h8\ems\contracts\dto\RejectRequest.class
+com\h8\ems\contracts\events\DispatchDecision$RankedCandidate.class
+com\h8\ems\contracts\dto\DispatchRequest.class
+com\h8\ems\contracts\dto\CreateIncidentRequest.class
+com\h8\ems\contracts\dto\CandidateRankingResponse.class
+com\h8\ems\contracts\dto\NearbyUnitResponse.class
+com\h8\ems\contracts\dto\EtaResponse.class
+com\h8\ems\contracts\events\PreArrivalAlert.class
+com\h8\ems\contracts\outbox\OutboxRecord.class
+com\h8\ems\contracts\events\IncidentEvent.class
+com\h8\ems\contracts\events\DispatchDecision.class
+com\h8\ems\contracts\events\LocationUpdate.class
+com\h8\ems\contracts\dto\EtaRequest.class
